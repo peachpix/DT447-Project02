@@ -16,4 +16,13 @@ MonoBehaviour:
   - name: Rock
     text: Hi. I am a rock.
   - name: Rock
-    text: Chicken eat elephant.
+    text: Chicken eat elephant. It is splitting out elephant bone.
+  - name: Rock
+    text: "Mosquito eats a crocodile. Because the crocodile has no hand to swat the
+      mosquito oh\r"
+  - name: Rock
+    text: "Do you know this song?\r"
+  - name: Player
+    text: ....
+  - name: Rock
+    text: Never mind! Bring me 3 mushroom!!!
