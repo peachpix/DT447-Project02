@@ -161,7 +161,7 @@ public class URPDayNight : MonoBehaviour
             lastAppliedSky = target;
         }
 
-        if (debugPhase) Debug.Log($"t={timeOfDay:F3} phase={phase}");
+        
 
         // 4) sun / moon color & intensity (your curves/gradients)
         if (sunColorOverDay != null) sun.color = sunColorOverDay.Evaluate(timeOfDay);
